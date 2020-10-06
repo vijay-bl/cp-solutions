@@ -18,7 +18,7 @@ typedef std::vector<std::vector<ll> > vv;
 #define ms(a,val) memset(a,val,sizeof(a))
 using namespace std;
 
-const int N = 1e5 + 5;
+const int N = 1e5 + 6;
 
 
 void solve(){
